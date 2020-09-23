@@ -11,3 +11,4 @@
 
 ⚡ Fun fact: I had 14 different jobs before becoming a developer.
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=evayde&show_icons=true&theme=radical)
